@@ -10,7 +10,7 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [ "onCommand:ai-project-os.openPanel"],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
